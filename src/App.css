@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  display: flex;
+}
+
+.navBar.search{
+  padding: 10px;
+  border-radius: 200px;
+}
